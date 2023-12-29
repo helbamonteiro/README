@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando CSS, HTML e Angular
-- 💼 Trabalhando como Freelance 
+- 💼 Trabalhando como Freelancer
 
 
 <h3>Minhas Skills</h3>
